@@ -1,2 +1,3 @@
-# calculadorajs
-Calculadora em JS / SVG
+# Calculadora
+
+Projeto realizado durante estudos de JavaScript
